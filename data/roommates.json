@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Clémentine Dupont",
+    "debe": 5000,
+    "recibe": 3000,
+    "id": "7b7e1c05-c300-4d2f-ba01-b345dcc1ff43"
+  },
+  {
+    "nombre": "Halvard Hoseth",
+    "debe": 10000,
+    "recibe": 5000,
+    "id": "30900eca-a993-46ec-b2ae-87e3c1728879"
+  },
+  {
+    "nombre": "Aprígio Gomes",
+    "debe": 20000,
+    "recibe": 8000,
+    "id": "efe3768d-331d-4907-8aa5-c7596028ca54"
+  },
+  {
+    "nombre": "Níger Ramos",
+    "debe": 0,
+    "recibe": 10000,
+    "id": "654260f1-a3a1-48c4-8171-5afe4758b73f"
+  },
+  {
+    "nombre": "Alan Chapman",
+    "debe": 8000,
+    "recibe": 7000,
+    "id": "2508d800-d27d-4d9c-bc2c-e050cd494ba2"
+  },
+  {
+    "nombre": "Deniz Babacan",
+    "debe": 0,
+    "recibe": 7000,
+    "id": "651d4882-68d4-4300-9e5c-600d488ca936"
+  }
+]
